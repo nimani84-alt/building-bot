@@ -8,7 +8,7 @@ from telegram.ext import (
 # -------------------------------------------------------------
 # ۱. تنظیم توکن ربات تلگرام
 # -------------------------------------------------------------
-BOT_TOKEN = "توکن_ربات_را_اینجا_قرار_دهید"
+BOT_TOKEN = "8965242671:AAFcCxa1CjAAjyAtnPevEIijwQ3p3GjAPYw"
 
 # وضعیت‌های گفتگو (Conversation States)
 UNIT_NUM, UNIT_AREA, UNIT_OCC = range(3)
